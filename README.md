@@ -1,4 +1,4 @@
-# Marketing-Intelligence-Agent (RAG,LLM,Live Search)
+# Marketing-Intelligence-Agent with Sentiment (RAG,LLM,Live Search)
 Marketing Intelligence Sentiment Agent using Langchain, Langgraph to connect nodes of Multi Agents.
 
 # Usage
